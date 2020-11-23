@@ -20,8 +20,9 @@ The code of our Cofe-Net will also be released soon.
 
 <img src="./img/10079_right.png" width = "100" height = "100" align=center /><img src="./img/10084_left.png" width = "100" height = "100" align=center /><img src="./img/10089_left.png" width = "100" height = "100" align=center /><img src="./img/10106_left.png" width = "100" height = "100" align=center /> <img src="./img/10079_right_fuse.png" width = "100" height = "100" align=center /><img src="./img/10084_left_fuse.png" width = "100" height = "100" align=center /><img src="./img/10089_left_fuse.png" width = "100" height = "100" align=center /><img src="./img/10106_left_fuse.png" width = "100" height = "100" align=center />
 
+------
 
-Reference:
+**Reference:**
 
 [1] Ziyi Shen, Huazhu Fu, Jianbing Shen, and Ling Shao, "Modeling and Enhancing Low-quality Retinal Fundus Images", in arXiv: 2005.05594, 2020. [[arXiv]](https://arxiv.org/abs/2005.05594)
 
