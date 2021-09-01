@@ -24,6 +24,6 @@ The code of our Cofe-Net will also be released soon.
 
 **Reference:**
 
-[1] Ziyi Shen, Huazhu Fu, Jianbing Shen, and Ling Shao, "Modeling and Enhancing Low-quality Retinal Fundus Images", in arXiv: 2005.05594, 2020. [[arXiv]](https://arxiv.org/abs/2005.05594)
+[1] Ziyi Shen, Huazhu Fu, Jianbing Shen, and Ling Shao, "Modeling and Enhancing Low-quality Retinal Fundus Images", IEEE TMI, 2021. [[arXiv]](https://arxiv.org/abs/2005.05594)
 
 [2] Huazhu Fu, Boyang Wang, Jianbing Shen, Shanshan Cui, Yanwu Xu, Jiang Liu, and Ling Shao, "Evaluation of Retinal Image Quality Assessment Networks in Different Color-spaces", in International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019. [[arXiv]](https://arxiv.org/abs/1907.05345) [[data and code]](https://github.com/HzFu/EyeQ)
