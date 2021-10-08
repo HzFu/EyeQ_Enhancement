@@ -14,7 +14,7 @@ This algorithm is able to effectively corrects low-quality fundus images without
 Here we will release the code of our degradation algorithm and corresponding parameters for low-quality fundus image generation.
 You also could refer to your own requirement and simulate specific images by setting your own data. 
 
-The code of our Cofe-Net will also be released soon.
+**The code has been released here: https://github.com/joanshen0508/Fundus-correction-cofe-Net **
 
 <img src="./img/101_left.png" width = "100" height = "100" align=center /><img src="./img/1060_right.png" width = "100" height = "100" align=center /><img src="./img/101_left.png" width = "100" height = "100" align=center /><img src="./img/1125_left.png" width = "100" height = "100" align=center /> <img src="./img/101_left_fuse.png" width = "100" height = "100" align=center /><img src="./img/106_left_fuse.png" width = "100" height = "100" align=center /><img src="./img/1060_right_fuse.png" width = "100" height = "100" align=center /><img src="./img/1125_left_fuse.png" width = "100" height = "100" align=center />
 
